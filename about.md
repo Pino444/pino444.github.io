@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+comment: false
 ---
 
 ![hgy](/IMG_9262_large.JPG){:.rounded.border}
