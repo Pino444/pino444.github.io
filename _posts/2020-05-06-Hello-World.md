@@ -3,6 +3,7 @@ title: Hello World
 tags: Markdown Java
 mathjax: true
 chart: true
+key: 20200506
 ---
 
 你猜猜我想说什么
